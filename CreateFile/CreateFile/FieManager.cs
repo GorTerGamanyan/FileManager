@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace CreateFile
 {
-    public static class Class1
+    public static class FieManager
     {
         public static void NewTextFile(string path,string text)
         {
